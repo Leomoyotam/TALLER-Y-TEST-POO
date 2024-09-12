@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "periodo": {
+      "id": 1,
+      "periodo": "2024-2025",
+      "active": true,
+      "fecha_creacion": "10-09-2024"
+    },
+    "profesor": {
+      "nombre": "Jenny",
+      "apellido": "Pincay",
+      "dni": "0951777838",
+      "active": true,
+      "fecha_creacion": "10-09-2024"
+    },
+    "asignatura": {
+      "id": 1,
+      "descripcion": "poo",
+      "nivel": {
+        "id": 1,
+        "nivel": "cuarto",
+        "active": true,
+        "fecha_creacion": "10-09-2024"
+      },
+      "active": true
+    },
+    "detalle_notas": [
+      {
+        "id": 1,
+        "estudiante": {
+          "nombre": "Gabriel",
+          "apellido": "Ortega",
+          "dni": "0951777838",
+          "active": true,
+          "fecha_creacion": "10-09-2024"
+        },
+        "nota1": 60.0,
+        "nota2": 70.0,
+        "recuperacion": null,
+        "promedio": 65.0,
+        "observacion": "Reprobado"
+      }
+    ],
+    "active": true,
+    "fecha_creacion": "10-09-2024"
+  }
+]

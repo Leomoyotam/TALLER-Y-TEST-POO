@@ -1,0 +1,1 @@
+[{"id":1, "descripcion": "poo", "nivel": {"id": 1, "nivel": "cuarto", "active": true, "fecha_creacion": "10-09-2024"}, "active": true}, {"id": 2, "descripcion": "poo2", "nivel": {"id": 1, "nivel": "octavo", "active": true, "fecha_creacion": "10-09-2024"}, "active": true}]
